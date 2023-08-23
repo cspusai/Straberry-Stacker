@@ -14,7 +14,7 @@ Ubuntu 20.04, a Linux environment is used for running all the packages and progr
 The Robot Operating System (ROS) is a set of software libraries and tools that help one build robot applications. Note: ROS is strongly version specific middleware. Thus, Ubuntu 20.04 (Focal) is used with ROS Noetic.
 # 3. Gazebo
 Gazebo 11, a physical engine (used for simulation) is tightly integrated with ROS Noetic and so it comes pre-installed when ros-noetic-desktop-full is installed.
-#  4. PX4 Autopilot
+# 4. PX4 Autopilot
 PX4 is an open source flight control software for drones and other unmanned vehicles.
 It provides a standard to deliver drone hardware support and software stack, allowing an ecosystem to build and maintain hardware and software in a scalable way.
 # 5. QGroundControl
