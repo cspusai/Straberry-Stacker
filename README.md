@@ -2,6 +2,7 @@
 Self Project For simulation of drone in Gazebo
 # Theme description
 Commercial strawberry harvesting necessitates expert labour. The picker must swiftly identify any ripe strawberries on a plant, select them, and pack the berries into boxes all at the same time. This is labour for the employees as well as bad for the farm's overall efficiency.
+![image](https://github.com/cspusai/Straberry-Stacker/assets/94951653/895dc771-d29c-4840-a593-7b3ad47e9eb5)
 
 The aim is to build a multi-drone system for picking strawberry boxes from a field and stacking them onto a transport trailer. A total of 6 incremental tasks starting from the installation to the final solution to the problem are detailed here.
 
@@ -20,6 +21,6 @@ It provides a standard to deliver drone hardware support and software stack, all
 # 5. QGroundControl
 QGroundControl provides full flight control and mission planning for any MAVLink enabled drone.
 It acts as a Ground Control Station (GCS) of the drone.
-#6. Python3
+# 6. Python3
 All the programs interfacing with ROS Noetic framework are written in Python3.
 It comes preinstalled with ROS Noetic.
