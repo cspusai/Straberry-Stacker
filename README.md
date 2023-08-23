@@ -8,9 +8,9 @@ The aim is to build a multi-drone system for picking strawberry boxes from a fie
 # Software Descriptions which are used in this project
 We will use Gazebo simulator, a robotics simulator, where the simulated farm and UAVs will dwell, the PX4 Autopilot ecosystem for controlling the UAV, and ROS for integrating the many parts of autonomy required in the solution.
 
-# #1. Ubuntu 20.04 LTS
+# 1. Ubuntu 20.04 LTS
 Ubuntu 20.04, a Linux environment is used for running all the packages and programmes such as Gazebo 11 etc.
-2. ROS Noetic
+# 2. ROS Noetic
 The Robot Operating System (ROS) is a set of software libraries and tools that help one build robot applications. Note: ROS is strongly version specific middleware. Thus, Ubuntu 20.04 (Focal) is used with ROS Noetic.
 3. Gazebo
 Gazebo 11, a physical engine (used for simulation) is tightly integrated with ROS Noetic and so it comes pre-installed when ros-noetic-desktop-full is installed.
